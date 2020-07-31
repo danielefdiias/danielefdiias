@@ -10,5 +10,5 @@ Desenvolvedora Full-Stack 💻 🚀
 - 💬 Ask me about Technology, Brazilian history and food.
 - ⚡ Fun fact: I love cooking, classical ballet and history.
 - Contatos ✉️
-E-mail: danniele-diias@hotmail.com.br
-Linkedin: https://www.linkedin.com/in/danielefdias/
+   E-mail: danniele-diias@hotmail.com.br
+   Linkedin: https://www.linkedin.com/in/danielefdias/
