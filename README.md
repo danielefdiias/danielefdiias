@@ -9,6 +9,3 @@ Desenvolvedora Full-Stack 💻 🚀
 - 📚 Techs: Java, JavaScript, Angular 7, Springboot, Camunda and Agile.
 - 💬 Ask me about Technology, Brazilian history and food.
 - ⚡ Fun fact: I love cooking, classical ballet and history.
-- Contatos ✉️
-   E-mail: danniele-diias@hotmail.com.br
-   Linkedin: https://www.linkedin.com/in/danielefdias/
