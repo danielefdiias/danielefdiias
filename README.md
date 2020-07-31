@@ -1,8 +1,5 @@
 Desenvolvedora Full-Stack 💻 🚀
 
-<!--
-**danielefdiias/danielefdiias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
  My name is Daniele, I'm full stack developer but loving the front end, I love to learn. I've been working as a developer for a year.
  
 - 🎓Bachelor of Computer Science
@@ -15,4 +12,3 @@ Desenvolvedora Full-Stack 💻 🚀
 - Contatos ✉️
 E-mail: danniele-diias@hotmail.com.br
 Linkedin: https://www.linkedin.com/in/danielefdias/
--->
