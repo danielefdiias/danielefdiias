@@ -1,4 +1,4 @@
-<b>I'm a Full-Stack Developer</b>💻 🚀
+<b>I'm a Full-Stack Developer </b> 💻 🚀
 
  My name is Daniele, I'm full stack developer but loving the front end, I love to learn. I've been working as a developer for a year.
  
