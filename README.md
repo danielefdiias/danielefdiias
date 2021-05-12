@@ -2,7 +2,7 @@
 
  My name is Daniele, I'm full stack developer but loving the front end, I love to learn. I've been working as a developer for a year.
  
-- 🎓Bachelor of Computer Science
+- 🎓Bachelor of Computer Science and taking an MBA in agile project management
 - 💻 I’m currently working on back-end development using Java, Spring Boot.
 - 🌱 I’m currently learning JavaScript, ReactJS and Unit Tests.
 - 🌍 Languages: Portuguese, English and Spanish.
